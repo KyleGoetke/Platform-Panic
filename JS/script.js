@@ -42,7 +42,7 @@ window.onload = function () {
     document.getElementById("end").style.visibility = "hidden";
     ////////////////////////////////////////////////////////////////////////////
 
-    levelOne();
+    levelTwo();
     //start game loop
     gameLoop = setInterval(update, 15);
 }

@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: #CDFAF8;
+    font-family: Calibri, sans-serif;
+    font-size: 25px;
+}
+
+button {
+    background-color: #2274A5;
+    color: white;
+    display: inline-block;
+    font-size: 30px;
+    border: none;
+    padding: 28px 64px;
+    text-align: center;
+    margin: 4px 2px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+button:focus {
+    outline: 0;
+    transform: translateY(3px);
+}
+
+a {
+    text-decoration: none;
+}
+
+#end {
+    font-size: 50px;
+}
+
+#healthbar {
+    font-size: 30px;
+    padding-left: 66px;
+    padding-right: 6px;
+}

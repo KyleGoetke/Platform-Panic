@@ -3,12 +3,12 @@ Platform Panic is a browser-based platformer game based on the original platform
 
 It was created during the freshman Computing and Informatics Design track at Drexel University.
 ## Installation & Usage
-Clone the repository
+Clone the repository:
 ```sh
 git clone https://github.com/KyleGoetke/Platform-Panic.git
 ```
 
-Open `StartScreen.html` with your web browser of choice
+Open `StartScreen.html` with your web browser of choice.
 * JavaScript needs to be enabled
 
 ## Help

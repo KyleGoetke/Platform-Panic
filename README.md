@@ -11,9 +11,6 @@ git clone https://github.com/KyleGoetke/Platform-Panic.git
 Open `StartScreen.html` with your web browser of choice.
 * JavaScript needs to be enabled
 
-## Help
-Please reach out to Kyle Goetke with any questions or comments.
-
 ## Authors
 Developer - [Kyle Goetke](mailto:goetkek@protonmail.com)
 
@@ -22,6 +19,9 @@ Developer - [Armando Parra](mailto:ajp434@drexel.edu)
 Art & Sound - [Jackson Heiney](mailto:jjh379@drexel.edu)
 
 Developer - [Jonathan Ebby](mailto:jje77@drexel.edu)
+
+## Help
+Please reach out to Kyle Goetke with any questions or comments.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -3,7 +3,7 @@
 Platform Panic is a browser-based platformer game based on the original platformers from the 1980s.
 
 ## Installation & Usage
-Open `StartScreen.html` with your web browser of choice.
+Download the repository and open `StartScreen.html` with your web browser of choice.
 
 ## Credits
 Developer - <a href="goetkek@protonmail.com">Kyle Goetke</a>
